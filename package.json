@@ -1,0 +1,1 @@
+{"name":"krillion-gd-render","version":"1.0.0","type":"module","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2","pg":"^8.13.1","ws":"^8.18.0"}}
